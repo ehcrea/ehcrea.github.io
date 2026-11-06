@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ehcrea.github.io/Engineering-Calculators/sitemap.xml
+Sitemap: https://ehcrea.github.io/cold-plate-calculator/sitemap.xml
+Sitemap: https://ehcrea.github.io/tolerance-chain-calculator/sitemap.xml
+Sitemap: https://ehcrea.github.io/vacuum-chamber-calculator/sitemap.xml
+Sitemap: https://ehcrea.github.io/o-ring-groove-designer/sitemap.xml
