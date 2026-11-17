@@ -8,3 +8,4 @@ Sitemap: https://ehcrea.github.io/vacuum-chamber-calculator/sitemap.xml
 Sitemap: https://ehcrea.github.io/o-ring-groove-designer/sitemap.xml
 Sitemap: https://ehcrea.github.io/galvanic-corrosion-checker/sitemap.xml
 Sitemap: https://ehcrea.github.io/bolted-joint-calculator/sitemap.xml
+Sitemap: https://ehcrea.github.io/mil-std-810-toolkit/sitemap.xml
